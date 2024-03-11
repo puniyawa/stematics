@@ -120,7 +120,7 @@ function guessWord() {
                 setTimeout(function(){
                     life = maxlife;
                     randomWord();
-                }, 2000);
+                }, 3000);
             }
         }     
     }
